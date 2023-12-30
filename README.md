@@ -1,3 +1,8 @@
+```
+Name : Rajalakshmi R
+Class : 212223110037
+```
+
 # Exp-04 Implementation of Half subtractor and Full subtractor circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
