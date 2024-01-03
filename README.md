@@ -1,6 +1,6 @@
 ```
-Name : Rajalakshmi R
-Class : 212223110037
+Name : prasanna
+Class : 23003719
 ```
 
 # Exp-04 Implementation of Half subtractor and Full subtractor circuit
